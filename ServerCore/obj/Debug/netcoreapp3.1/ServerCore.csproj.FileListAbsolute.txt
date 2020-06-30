@@ -1,0 +1,12 @@
+/Users/suminlee/unityProjects/FirstServer/ServerCore/bin/Debug/netcoreapp3.1/ServerCore.deps.json
+/Users/suminlee/unityProjects/FirstServer/ServerCore/bin/Debug/netcoreapp3.1/ServerCore.runtimeconfig.json
+/Users/suminlee/unityProjects/FirstServer/ServerCore/bin/Debug/netcoreapp3.1/ServerCore.runtimeconfig.dev.json
+/Users/suminlee/unityProjects/FirstServer/ServerCore/bin/Debug/netcoreapp3.1/ServerCore.dll
+/Users/suminlee/unityProjects/FirstServer/ServerCore/bin/Debug/netcoreapp3.1/ServerCore.pdb
+/Users/suminlee/unityProjects/FirstServer/ServerCore/obj/Debug/netcoreapp3.1/ServerCore.csprojAssemblyReference.cache
+/Users/suminlee/unityProjects/FirstServer/ServerCore/obj/Debug/netcoreapp3.1/ServerCore.csproj.CoreCompileInputs.cache
+/Users/suminlee/unityProjects/FirstServer/ServerCore/obj/Debug/netcoreapp3.1/ServerCore.AssemblyInfoInputs.cache
+/Users/suminlee/unityProjects/FirstServer/ServerCore/obj/Debug/netcoreapp3.1/ServerCore.AssemblyInfo.cs
+/Users/suminlee/unityProjects/FirstServer/ServerCore/obj/Debug/netcoreapp3.1/ServerCore.dll
+/Users/suminlee/unityProjects/FirstServer/ServerCore/obj/Debug/netcoreapp3.1/ServerCore.pdb
+/Users/suminlee/unityProjects/FirstServer/ServerCore/obj/Debug/netcoreapp3.1/ServerCore.genruntimeconfig.cache
