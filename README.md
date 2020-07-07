@@ -1,4 +1,4 @@
-# study-react-next-sns
+# study-game-server
 
 ### ASP.NET 서버 멀티쓰레딩 환경 개발 ###
 - 락, 멀티쓰레드, 패킷 관리 등 핵심 네트워크, OS지식을 공부하며 서버개발 실습
