@@ -10,3 +10,16 @@
 /Users/suminlee/unityProjects/FirstServer/ServerCore/obj/Debug/netcoreapp3.1/ServerCore.dll
 /Users/suminlee/unityProjects/FirstServer/ServerCore/obj/Debug/netcoreapp3.1/ServerCore.pdb
 /Users/suminlee/unityProjects/FirstServer/ServerCore/obj/Debug/netcoreapp3.1/ServerCore.genruntimeconfig.cache
+C:\Users\sumin\myProjects\FirstServer\ServerCore\bin\Debug\netcoreapp3.1\ServerCore.exe
+C:\Users\sumin\myProjects\FirstServer\ServerCore\bin\Debug\netcoreapp3.1\ServerCore.deps.json
+C:\Users\sumin\myProjects\FirstServer\ServerCore\bin\Debug\netcoreapp3.1\ServerCore.runtimeconfig.json
+C:\Users\sumin\myProjects\FirstServer\ServerCore\bin\Debug\netcoreapp3.1\ServerCore.runtimeconfig.dev.json
+C:\Users\sumin\myProjects\FirstServer\ServerCore\bin\Debug\netcoreapp3.1\ServerCore.dll
+C:\Users\sumin\myProjects\FirstServer\ServerCore\bin\Debug\netcoreapp3.1\ServerCore.pdb
+C:\Users\sumin\myProjects\FirstServer\ServerCore\obj\Debug\netcoreapp3.1\ServerCore.csprojAssemblyReference.cache
+C:\Users\sumin\myProjects\FirstServer\ServerCore\obj\Debug\netcoreapp3.1\ServerCore.AssemblyInfoInputs.cache
+C:\Users\sumin\myProjects\FirstServer\ServerCore\obj\Debug\netcoreapp3.1\ServerCore.AssemblyInfo.cs
+C:\Users\sumin\myProjects\FirstServer\ServerCore\obj\Debug\netcoreapp3.1\ServerCore.csproj.CoreCompileInputs.cache
+C:\Users\sumin\myProjects\FirstServer\ServerCore\obj\Debug\netcoreapp3.1\ServerCore.dll
+C:\Users\sumin\myProjects\FirstServer\ServerCore\obj\Debug\netcoreapp3.1\ServerCore.pdb
+C:\Users\sumin\myProjects\FirstServer\ServerCore\obj\Debug\netcoreapp3.1\ServerCore.genruntimeconfig.cache
