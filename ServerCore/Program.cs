@@ -44,7 +44,7 @@ namespace ServerCore
         static SpinLock _lock = new SpinLock();
     
         static void Thread_1(){
-            for(int i = 0; i < 10000; i++){
+            for(int i = 0; i < 10; i++){
                 _lock.Accquire();
                 number++;
                 _lock.Release();
@@ -52,7 +52,7 @@ namespace ServerCore
         }
 
         static void Thread_2(){
-            for(int i = 0; i < 10000; i++){
+            for(int i = 0; i < 10; i++){
                 _lock.Accquire();
                 number--;
                 _lock.Release();

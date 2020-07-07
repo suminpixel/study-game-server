@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "R6AfanlXbgydImTqx5WQf/B4BlnLiaxzejzbNbwLkAjhyKqt2x5fujpRGEghFcA/NLXUZUMOpvULwPhqCCrQ+g==",
+  "dgSpecHash": "75iLbnQDm65P+PmgbjNgdeeejV/Qtt5hPEu0FMLcFHJ6X+ulrC+IjOk+qUycw8qqar2q/XtCyGu2XWbdrSvqIw==",
   "success": true,
-  "projectFilePath": "/Users/suminlee/unityProjects/FirstServer/ServerCore/ServerCore.csproj",
+  "projectFilePath": "C:\\Users\\sumin\\myProjects\\FirstServer\\ServerCore\\ServerCore.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

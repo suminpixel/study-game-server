@@ -8,24 +8,31 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "/Users/suminlee/.nuget/packages/": {}
+    "C:\\Users\\sumin\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/suminlee/unityProjects/FirstServer/ServerCore/ServerCore.csproj",
+      "projectUniqueName": "C:\\Users\\sumin\\myProjects\\FirstServer\\ServerCore\\ServerCore.csproj",
       "projectName": "ServerCore",
-      "projectPath": "/Users/suminlee/unityProjects/FirstServer/ServerCore/ServerCore.csproj",
-      "packagesPath": "/Users/suminlee/.nuget/packages/",
-      "outputPath": "/Users/suminlee/unityProjects/FirstServer/ServerCore/obj/",
+      "projectPath": "C:\\Users\\sumin\\myProjects\\FirstServer\\ServerCore\\ServerCore.csproj",
+      "packagesPath": "C:\\Users\\sumin\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\sumin\\myProjects\\FirstServer\\ServerCore\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
+      ],
       "configFilePaths": [
-        "/Users/suminlee/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\sumin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -56,7 +63,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.200/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
       }
     }
   }
