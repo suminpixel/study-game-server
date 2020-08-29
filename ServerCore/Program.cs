@@ -1,39 +1,31 @@
-﻿using System;
+﻿
+using System;
 using System.Threading;
 using System.Threading.Tasks;
-// 락 구현 연습
-// tip: 
-// 멀티쓰레딩 환경에서 락은 디버깅의 60~70% 비중을 차지하는 주요 이슈다.
-// 1.spinLock : 다른 스레드가 lock을 점유하고 있을때 해당 lock이 반환 될 때 까지 확인하며 대기하는것
-//               -> 짧게 대기한다는 확신이 있다면 Context Switching 보다 더 나음
+// 컨텍스트 스위칭
+// CPU 코어가 TASK를 수행하다가, 인터럽트 혹은 스케쥴링에 의해 다른 일을 수행해야 할때 
+// 현재 업무 상태를 레지스터에 저장(무슨일을/어디까지 수행했는지) 한 후 다른 업무로 스위칭 하는것 
+
+
+// auto reset event 오토 리셋 이벤트 / manudal reset event 매뉴얼 리셋 이벤트
+// 락을 구현하는 마지막 방법
+
 
 namespace ServerCore
 {
+    
 
-    class SpinLock{
-        volatile int _locked = 0; // tip: volatile : 가시성 보장
-        public void Accquire(){
-            while(true){
-                //버전 1
-                //int original = Interlocked.Exchange(ref _locked, 1); //Atomic 하게 변수의 값 지정하는 방법 : 원자 단위 연산으로 변수를 지정된 값으로 설정합니다.
-                //if(original == 1){
-                //  break;
-                //}
-
-                //버전 2
-                //CAS 
-                int expected = 0;
-                int desired = 1; 
-                if(Interlocked.CompareExchange(ref _locked, desired, expected) == expected){
-                     break;
-                }
-                
-            }
-          
-        }
+    class Lock{
         
+        // 문을 닫고 여는것을 커널단이 자동으로 해줌 boolean 값으로 표현 가능 
+        AutoResetEvent _avaliable = new AutoResetEvent(true); //열린 \상태 
+        
+
+        public void Accquire(){
+
+        }
         public void Release(){
-            _locked = 0;
+
         }
     }
   

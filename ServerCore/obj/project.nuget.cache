@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "75iLbnQDm65P+PmgbjNgdeeejV/Qtt5hPEu0FMLcFHJ6X+ulrC+IjOk+qUycw8qqar2q/XtCyGu2XWbdrSvqIw==",
+  "dgSpecHash": "WBVBZrVnDTtk0NaQfWvDC/4af+hZWyS4iTgVj8Hae3BnS+WMUhT0dV5pMS/Nz4/SqdBx7yy2/8sdBJQmzVpxxQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sumin\\myProjects\\FirstServer\\ServerCore\\ServerCore.csproj",
+  "projectFilePath": "/Users/suminlee/myProjects/study-game-server/ServerCore/ServerCore.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

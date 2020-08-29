@@ -15,8 +15,8 @@ namespace ServerCore
         static void Thread_1(){
             for(int i = 0; i < 10000; i++){
                 Interlocked.Increment(ref number); //ref : 변수의 참조(주소)값
-                // tip: interlocked : number을 여러과정으로 += 하지 않고 한번에 -> race condition 문제 해결
-                // 동시다발경합 X 원자적으로 실행순서 보장됨. 그러나 그만큼 다른 쓰레드가 자원을 돌려(공유)받기 위한 대기시간을 가짐 -> 느림.
+                // tip: interlocked : numbeㅏr을 여러과정으로 += 하지 않고 한번에 -> race condition 문제 해결
+                // 동시다발경합 X 원자적으로 실행순서 보장됨. 그러나 그\\\\\\\\만큼 다른 쓰레드가 자원을 돌려(공유)받기 위한 대기시간을 가짐 -> 느림.
 
                 //실제로 일어나는 number 변수 증가
                 
